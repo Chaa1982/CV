@@ -110,10 +110,21 @@
         font-size: 17px;
     }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     .aside li{
         font-size: 10px;
-      }
+    }
+    .foto-wrapper {
+        left: 0;
+        width: 190px;
+        height: 190px;
+    }
+    .main-section {
+        font-size: 14px;
+    }
+    .header h3 {
+        font-size: 12px;
+    }
 }
 
 
