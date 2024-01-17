@@ -104,10 +104,16 @@
         width: 270px;
         height: 190px;
     }
-    .aside h2 {
-        font-style: italic;
-    }
+    
+    
     .main-section {
         font-size: 17px;
     }
 }
+@media screen and (max-width: 400px) {
+    .aside li{
+        font-size: 10px;
+      }
+}
+
+

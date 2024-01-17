@@ -63,6 +63,10 @@ main > .main-section {
 .aside h2 {
     font-size: 30px;
 }
+.aside ul {
+    padding: 0;
+    margin-left: 10px;
+}
 
 
 .main-section {
