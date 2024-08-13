@@ -13,18 +13,18 @@ body {
 
 }
 .foto-wrapper {
-    background-image: url(./images/myFoto.webp);
+    background-image: url(./images/foto1.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     width: 450px;
-    height: 300px;
+    height: 500px;
     border-radius: 50%;
 
     position: absolute;
-    left: 5%;
-    top: 5%;
+    left: 2%;
+    top: -6%;
 }
 
 .header h1, .header h3 {
